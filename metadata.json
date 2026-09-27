@@ -1,0 +1,6 @@
+{
+  "name": "VidyaSetu - Education Officer Decision Support & Action Platform",
+  "description": "Empowering District and Block Education Officers (DEOs/BEOs) to collate multi-level assessment and monitoring data (UDISE+, NAS, FLS, ASER, PAB), derive evidence-based insights, and assign, execute, and track targeted educational interventions with full accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
